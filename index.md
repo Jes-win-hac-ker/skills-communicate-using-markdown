@@ -6,3 +6,7 @@
 ###### Thats all i have to say about my college
 
 ![Image of Vidya Academy of Science and Technology](https://vidyaacademy.ac.in/admin/upload/album_gallery/1479852663_album_5.jpg)
+
+``` javascript
+var Markdn= "This is a example of markdown using github ";
+```
