@@ -10,3 +10,9 @@
 ``` javascript
 var Markdn= "This is a example of markdown using github ";
 ```
+
+- [X] Pulled request from the original repo 
+- [x] Outline my portfolio
+- [x] Given a photo and an alt line
+- [x] added a javascript code
+- [ ] done nothing
